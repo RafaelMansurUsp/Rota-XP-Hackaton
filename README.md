@@ -135,7 +135,7 @@ Quando necessário, crie um arquivo `.env` com as credenciais e configurações 
 Inicie a interface do protótipo com:
 
 ```bash
-streamlit run app.py
+py -m streamlit run app.py
 ```
 
 O arquivo `app.py` representa o ponto de entrada previsto para a aplicação. Caso o projeto utilize outro arquivo principal, substitua o nome no comando acima.
